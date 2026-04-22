@@ -19,7 +19,7 @@
 
 | | |
 |:---:|:---|
-| 📍 | Based in **Japan** — relocating to **Vancouver, Canada** 🍁 (Working Holiday visa) |
+| 📍 | Based in **Vancouver, Canada** 🍁 (Working Holiday visa) |
 | 💡 | **4+ years** building AI platforms · RAG · LLMs · Full-Stack at **SoftBank Corp.** |
 | 🔧 | **Python** · **TypeScript** · **Azure OpenAI** · RAG · Terraform · Docker |
 | 🎙️ | Podcast host — [ひまじんプログラマー](https://podcasts.apple.com/us/podcast/id1601084785) *(Top 10 in Japan, Peak #7)* |
