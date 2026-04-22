@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jumpei Kurata 👋🍁
+# Hi, I'm Jumpei Kurata 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jumpei-kurata&color=0e75b6&style=flat-square)](https://github.com/jumpei-kurata)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumpei-kurata/)
