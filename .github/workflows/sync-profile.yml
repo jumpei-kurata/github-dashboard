@@ -1,0 +1,39 @@
+name: Sync Profile README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - '.github/workflows/update-podcast.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout github-dashboard
+        uses: actions/checkout@v4
+
+      - name: Clone profile repository
+        run: |
+          git clone https://x-access-token:${{ secrets.PROFILE_REPO_TOKEN }}@github.com/jumpei-kurata/jumpei-kurata.git /tmp/profile-repo
+
+      - name: Copy files to profile repo
+        run: |
+          cp README.md /tmp/profile-repo/README.md
+          mkdir -p /tmp/profile-repo/.github/workflows
+          cp .github/workflows/update-podcast.yml /tmp/profile-repo/.github/workflows/update-podcast.yml
+
+      - name: Commit and push
+        run: |
+          cd /tmp/profile-repo
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git diff --quiet && echo "No changes" || (
+            git add README.md .github/workflows/update-podcast.yml &&
+            git commit -m "chore: sync profile from github-dashboard" &&
+            git push
+          )
