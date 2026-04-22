@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumpei-kurata/)
 [![X](https://img.shields.io/twitter/follow/panpaaaaash?style=for-the-badge&logo=x&color=000000&labelColor=000000&label=Follow)](https://x.com/panpaaaaash)
 [![GitHub](https://img.shields.io/github/followers/jumpei-kurata?label=Follow&logo=github&style=for-the-badge)](https://github.com/jumpei-kurata)
-[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/%E3%81%B2%E3%81%BE%E3%81%98%E3%82%93%E3%83%97%E3%B0%E3%83%A9%E3%83%9E%E3%83%BC/id1601084785)
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 
 </div>
 
@@ -21,7 +21,7 @@
 |:---:|:---|
 | 📍 | Based in **Japan** — actively seeking roles in **Canada** 🍁 |
 | 🔧 | **Java** · **Spring Boot** · HTML · CSS |
-| 🎙️ | Podcast host — [ひまじんプログラマー](https://podcasts.apple.com/us/podcast/%E3%81%B2%E3%81%BE%E3%81%98%E3%82%93%E3%83%97%E3%B0%E3%83%A9%E3%83%9E%E3%83%BC/id1601084785) *(dev-life podcast, Japanese)* |
+| 🎙️ | Podcast host — [ひまじんプログラマー](https://podcasts.apple.com/us/podcast/id1601084785) *(dev-life podcast, Japanese)* |
 | 💼 | **Open to work** — software developer roles |
 | 📫 | se.jumpei114kurata@gmail.com |
 
@@ -48,7 +48,7 @@
 <!-- PODCAST_EPISODE_START -->
 <!-- PODCAST_EPISODE_END -->
 
-[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/%E3%81%B2%E3%81%BE%E3%81%98%E3%82%93%E3%83%97%E3%B0%E3%83%A9%E3%83%9E%E3%83%BC/id1601084785)
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 
 </td>
 </tr>
@@ -101,5 +101,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumpei-kurata/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/panpaaaaash)
-[![Podcast](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/%E3%81%B2%E3%81%BE%E3%81%98%E3%82%93%E3%83%97%E3%B0%E3%83%A9%E3%83%9E%E3%83%BC/id1601084785)
+[![Podcast](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.jumpei114kurata@gmail.com)
